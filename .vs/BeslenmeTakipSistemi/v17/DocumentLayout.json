@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Lenovo\\Desktop\\G\u00F6rsel Programlama III\\Beslenme Takip Sistemi\\BeslenmeTakipSistemi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4D53E2A8-E0DC-485B-96F7-B2FC1B03C6E9}|BeslenmeTakipSistemi\\BeslenmeTakipSistemi.csproj|c:\\users\\lenovo\\desktop\\g\u00F6rsel programlama iii\\beslenme takip sistemi\\beslenmetakipsistemi\\beslenmetakipsistemi\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4D53E2A8-E0DC-485B-96F7-B2FC1B03C6E9}|BeslenmeTakipSistemi\\BeslenmeTakipSistemi.csproj|solutionrelative:beslenmetakipsistemi\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D53E2A8-E0DC-485B-96F7-B2FC1B03C6E9}|BeslenmeTakipSistemi\\BeslenmeTakipSistemi.csproj|C:\\Users\\Lenovo\\Desktop\\G\u00F6rsel Programlama III\\Beslenme Takip Sistemi\\BeslenmeTakipSistemi\\beslenmetakipsistemi\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4D53E2A8-E0DC-485B-96F7-B2FC1B03C6E9}|BeslenmeTakipSistemi\\BeslenmeTakipSistemi.csproj|solutionrelative:beslenmetakipsistemi\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D53E2A8-E0DC-485B-96F7-B2FC1B03C6E9}|BeslenmeTakipSistemi\\BeslenmeTakipSistemi.csproj|C:\\Users\\Lenovo\\Desktop\\G\u00F6rsel Programlama III\\Beslenme Takip Sistemi\\BeslenmeTakipSistemi\\beslenmetakipsistemi\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D53E2A8-E0DC-485B-96F7-B2FC1B03C6E9}|BeslenmeTakipSistemi\\BeslenmeTakipSistemi.csproj|solutionrelative:beslenmetakipsistemi\\register.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D53E2A8-E0DC-485B-96F7-B2FC1B03C6E9}|BeslenmeTakipSistemi\\BeslenmeTakipSistemi.csproj|C:\\Users\\Lenovo\\Desktop\\G\u00F6rsel Programlama III\\Beslenme Takip Sistemi\\BeslenmeTakipSistemi\\beslenmetakipsistemi\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D53E2A8-E0DC-485B-96F7-B2FC1B03C6E9}|BeslenmeTakipSistemi\\BeslenmeTakipSistemi.csproj|solutionrelative:beslenmetakipsistemi\\login.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4D53E2A8-E0DC-485B-96F7-B2FC1B03C6E9}|BeslenmeTakipSistemi\\BeslenmeTakipSistemi.csproj|C:\\Users\\Lenovo\\Desktop\\G\u00F6rsel Programlama III\\Beslenme Takip Sistemi\\BeslenmeTakipSistemi\\beslenmetakipsistemi\\baglantisql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4D53E2A8-E0DC-485B-96F7-B2FC1B03C6E9}|BeslenmeTakipSistemi\\BeslenmeTakipSistemi.csproj|solutionrelative:beslenmetakipsistemi\\baglantisql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Register.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\G\u00F6rsel Programlama III\\Beslenme Takip Sistemi\\BeslenmeTakipSistemi\\BeslenmeTakipSistemi\\Register.cs",
+              "RelativeDocumentMoniker": "BeslenmeTakipSistemi\\Register.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\G\u00F6rsel Programlama III\\Beslenme Takip Sistemi\\BeslenmeTakipSistemi\\BeslenmeTakipSistemi\\Register.cs",
+              "RelativeToolTip": "BeslenmeTakipSistemi\\Register.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAswBwAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T23:08:27.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Register.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\G\u00F6rsel Programlama III\\Beslenme Takip Sistemi\\BeslenmeTakipSistemi\\BeslenmeTakipSistemi\\Register.cs",
+              "RelativeDocumentMoniker": "BeslenmeTakipSistemi\\Register.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\G\u00F6rsel Programlama III\\Beslenme Takip Sistemi\\BeslenmeTakipSistemi\\BeslenmeTakipSistemi\\Register.cs [Tasar\u0131m]",
+              "RelativeToolTip": "BeslenmeTakipSistemi\\Register.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T22:45:51.991Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Login.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\G\u00F6rsel Programlama III\\Beslenme Takip Sistemi\\BeslenmeTakipSistemi\\BeslenmeTakipSistemi\\Login.cs",
+              "RelativeDocumentMoniker": "BeslenmeTakipSistemi\\Login.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\G\u00F6rsel Programlama III\\Beslenme Takip Sistemi\\BeslenmeTakipSistemi\\BeslenmeTakipSistemi\\Login.cs",
+              "RelativeToolTip": "BeslenmeTakipSistemi\\Login.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T22:13:37.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.cs [Tasar\u0131m]",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\G\u00F6rsel Programlama III\\Beslenme Takip Sistemi\\BeslenmeTakipSistemi\\BeslenmeTakipSistemi\\Login.cs",
+              "RelativeDocumentMoniker": "BeslenmeTakipSistemi\\Login.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\G\u00F6rsel Programlama III\\Beslenme Takip Sistemi\\BeslenmeTakipSistemi\\BeslenmeTakipSistemi\\Login.cs [Tasar\u0131m]",
+              "RelativeToolTip": "BeslenmeTakipSistemi\\Login.cs [Tasar\u0131m]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T21:46:03.401Z",
+              "EditorCaption": " [Tasar\u0131m]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BaglantiSQL.cs",
+              "DocumentMoniker": "C:\\Users\\Lenovo\\Desktop\\G\u00F6rsel Programlama III\\Beslenme Takip Sistemi\\BeslenmeTakipSistemi\\BeslenmeTakipSistemi\\BaglantiSQL.cs",
+              "RelativeDocumentMoniker": "BeslenmeTakipSistemi\\BaglantiSQL.cs",
+              "ToolTip": "C:\\Users\\Lenovo\\Desktop\\G\u00F6rsel Programlama III\\Beslenme Takip Sistemi\\BeslenmeTakipSistemi\\BeslenmeTakipSistemi\\BaglantiSQL.cs",
+              "RelativeToolTip": "BeslenmeTakipSistemi\\BaglantiSQL.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAB0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T21:22:57.537Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+C:\Users\Lenovo\Desktop\Görsel Programlama III\Beslenme Takip Sistemi\BeslenmeTakipSistemi\BeslenmeTakipSistemi\bin\Debug\BeslenmeTakipSistemi.exe.config
+C:\Users\Lenovo\Desktop\Görsel Programlama III\Beslenme Takip Sistemi\BeslenmeTakipSistemi\BeslenmeTakipSistemi\bin\Debug\BeslenmeTakipSistemi.exe
+C:\Users\Lenovo\Desktop\Görsel Programlama III\Beslenme Takip Sistemi\BeslenmeTakipSistemi\BeslenmeTakipSistemi\bin\Debug\BeslenmeTakipSistemi.pdb
+C:\Users\Lenovo\Desktop\Görsel Programlama III\Beslenme Takip Sistemi\BeslenmeTakipSistemi\BeslenmeTakipSistemi\obj\Debug\BeslenmeTakipSistemi.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Görsel Programlama III\Beslenme Takip Sistemi\BeslenmeTakipSistemi\BeslenmeTakipSistemi\obj\Debug\BeslenmeTakipSistemi.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Görsel Programlama III\Beslenme Takip Sistemi\BeslenmeTakipSistemi\BeslenmeTakipSistemi\obj\Debug\BeslenmeTakipSistemi.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\Görsel Programlama III\Beslenme Takip Sistemi\BeslenmeTakipSistemi\BeslenmeTakipSistemi\obj\Debug\BeslenmeTakipSistemi.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Görsel Programlama III\Beslenme Takip Sistemi\BeslenmeTakipSistemi\BeslenmeTakipSistemi\obj\Debug\BeslenmeTakipSistemi.exe
+C:\Users\Lenovo\Desktop\Görsel Programlama III\Beslenme Takip Sistemi\BeslenmeTakipSistemi\BeslenmeTakipSistemi\obj\Debug\BeslenmeTakipSistemi.pdb
+C:\Users\Lenovo\Desktop\Görsel Programlama III\Beslenme Takip Sistemi\BeslenmeTakipSistemi\BeslenmeTakipSistemi\obj\Debug\BeslenmeTakipSistemi.Login.resources
+C:\Users\Lenovo\Desktop\Görsel Programlama III\Beslenme Takip Sistemi\BeslenmeTakipSistemi\BeslenmeTakipSistemi\obj\Debug\BeslenmeTakipSistemi.Register.resources
